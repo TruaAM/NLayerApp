@@ -1,0 +1,12 @@
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.DAL\bin\Debug\NLayerApp.DAL.dll.config
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.DAL\bin\Debug\NLayerApp.DAL.dll
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.DAL\bin\Debug\NLayerApp.DAL.pdb
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.DAL\bin\Debug\EntityFramework.dll
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.DAL\bin\Debug\EntityFramework.xml
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.csprojAssemblyReference.cache
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.csproj.CoreCompileInputs.cache
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.csproj.CopyComplete
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.dll
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.pdb

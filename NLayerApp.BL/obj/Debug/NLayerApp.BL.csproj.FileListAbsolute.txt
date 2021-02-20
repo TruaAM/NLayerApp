@@ -1,0 +1,16 @@
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\bin\Debug\NLayerApp.BL.dll
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\bin\Debug\NLayerApp.BL.pdb
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\bin\Debug\AutoMapper.dll
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\bin\Debug\Ninject.dll
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\bin\Debug\NLayerApp.DAL.dll
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\bin\Debug\EntityFramework.dll
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\bin\Debug\NLayerApp.DAL.pdb
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\bin\Debug\NLayerApp.DAL.dll.config
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\bin\Debug\AutoMapper.xml
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\bin\Debug\Ninject.xml
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\bin\Debug\EntityFramework.xml
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\obj\Debug\NLayerApp.BL.csprojAssemblyReference.cache
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\obj\Debug\NLayerApp.BL.csproj.CoreCompileInputs.cache
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\obj\Debug\NLayerApp.BL.csproj.CopyComplete
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\obj\Debug\NLayerApp.BL.dll
+D:\6-th Kurs\Frameworker\NLayerApp\NLayerApp.BL\obj\Debug\NLayerApp.BL.pdb
